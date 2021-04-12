@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+main {
+  margin: 0 72px 0 72px;
+}
+
+.cache {
+  display:none;
+}
+
+.body-mrg {
+  margin: 0px 30px 0 30px;
+}
+
+.MrgTop {
+  margin-top: 50px;
+}
+
+div.mrg {
+  margin-top: -47px;
+  margin-right: 10px;
+}
+
+footer.footer {
+  background:#415466;
+  color: white;
+}
+
+/* footer div p {
+  justify-content:center;
+} */
+
